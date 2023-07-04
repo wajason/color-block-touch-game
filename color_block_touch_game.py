@@ -8,8 +8,6 @@ pip install mediapipe --user
 
 pip install pygame
 
-#感覺是最終完整版
-
 import cv2
 import mediapipe as mp
 import random
